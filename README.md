@@ -91,7 +91,6 @@ Machine learning models can therefore be used not only to classify churn, but al
 ## Project Structure
 ```text
 Telco-Customer-Churn/
--
 - TelcoCustomerChurn.ipynb
 - README.md
 - data/
