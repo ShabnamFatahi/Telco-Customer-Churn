@@ -93,7 +93,8 @@ Machine learning models can therefore be used not only to classify churn, but al
 Telco-Customer-Churn/
 ■
 ■■■ TelcoCustomerChurn.ipynb
-■■■ WA_Fn-UseC_-Telco-Customer-Churn.csv
+■■■data/
+    ■■WA_Fn-UseC_-Telco-Customer-Churn.csv
 ■■■ README.md
 ```
 ## Conclusion
