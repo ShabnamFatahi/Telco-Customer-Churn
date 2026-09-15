@@ -96,6 +96,6 @@ Telco-Customer-Churn/
  └── WA_Fn-UseC_-Telco-Customer-Churn.csv
 ```
 ## Conclusion
-The project shows a complete machine learning workflow for the purpose of predicting customer churn, including data cleaning, exploratory data analysis, feature preprocessing, training of the model, comparison of the models, ROC analysis, and the prediction of churn probability.
+The project shows a complete The project shows  machine learning workflow for customer churn prediction, including data cleaning, exploratory data analysis, feature preprocessing, model training, model comparison, ROC analysis, and churn probability prediction.
 
 Of the models examined, Logistic Regression obtained the highest ROC-AUC at 0.845, whereas Gradient Boosting achieved the greatest Accuracy, Precision, and F1-score.
